@@ -45,7 +45,7 @@ Your Ultimate Multi-Language Dictionary & Q&A App for Ethiopia!
 
 1. **Clone this repo:**  
    ```sh
-   git clone https://github.com/YOUR_USERNAME/DahabiDictionary.git
+   git clone https://github.com/filex4242/DahabiDictionary.git
 
 <!---
 filex4242/filex4242 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
